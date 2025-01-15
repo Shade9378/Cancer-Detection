@@ -15,5 +15,30 @@ Ensure that the following libraries are installed:
 
 You can install them using the following command:
 
+`pip install -r requirements.txt`
+
+## Getting Started
+Clone this repository to your local machine:
+
 ```bash
-pip install requirements.txt
+git clone git@github.com:Shade9378/Cancer-Detection.git
+cd Cancer-Detection`
+```
+
+## Data
+The dataset used in this project is taken from: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+
+## Model Description
+![Model](result/model.png "model")
+
+## Evaluation Metrics
+The model’s performance is evaluated using the following metrics:
+- Precision: The proportion of true positive results among all positive predictions.
+- Recall: The proportion of true positives identified by the model out of all actual positives.
+- F1-Score: The harmonic mean of precision and recall.
+
+## Results
+![Result](result/result.png "result")
+
+## Acknowledgements 
+This project is built with the guide of GeekforGeek: https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/

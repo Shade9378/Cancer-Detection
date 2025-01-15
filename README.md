@@ -18,7 +18,9 @@ Ensure that the following libraries are installed:
 
 You can install them using the following command:
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 ## Installation
 Clone this repository to your local machine:

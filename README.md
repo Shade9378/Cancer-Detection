@@ -20,7 +20,7 @@ You can install them using the following command:
 
 `pip install -r requirements.txt`
 
-## Getting Started
+## Installation
 Clone this repository to your local machine:
 
 ```bash

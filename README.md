@@ -10,7 +10,10 @@ Ensure that the following libraries are installed:
 - `numpy`
 - `pandas`
 - `matplotlib`
+- `Pillow`
+- `glob2`
 - `scikit-learn`
+- `opencv-python` 
 - `tensorflow`
 
 You can install them using the following command:

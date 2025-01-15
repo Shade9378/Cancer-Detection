@@ -29,7 +29,7 @@ cd Cancer-Detection`
 ```
 
 ## Data
-The dataset used in this project is taken from: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+The dataset used in this project is taken from Kaaggle. Kindly refer this external link to access dataset: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
 ## Model Description
 ![Model](result/model.png "model")

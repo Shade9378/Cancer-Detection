@@ -41,4 +41,4 @@ The model’s performance is evaluated using the following metrics:
 ![Result](result/result.png "result")
 
 ## Acknowledgements 
-This project is built with the guide of GeekforGeek: https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/
+This project is built with the guide of GeeksforGeek: https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/

@@ -1,0 +1,10 @@
+# To installs these required library, run 'pip install -r requirements.txt'
+numpy
+pandas
+matplotlib
+Pillow
+glob2 
+scikit-learn
+opencv-python
+tensorflow
+keras
